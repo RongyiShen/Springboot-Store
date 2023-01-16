@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springmvc-upload/controller.iml" filepath="$PROJECT_DIR$/springmvc-upload/controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store/store.iml" filepath="$PROJECT_DIR$/store/store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/项目源码.iml" filepath="$PROJECT_DIR$/.idea/项目源码.iml" />
+    </modules>
+  </component>
+</project>
